@@ -5,3 +5,5 @@ C3 First commit to test_branch_2
 C4 Cherry-pick don't want
 
 C5 Cherry-pick want
+
+C6 Cherry-pick want
