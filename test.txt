@@ -7,7 +7,3 @@ C4 Cherry-pick don't want
 C5 Cherry-pick want
 
 C6 Cherry-pick want
-
-C7 Cherry-pick don't want
-
-C8 Cherry-pick want
